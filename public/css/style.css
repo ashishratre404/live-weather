@@ -266,3 +266,24 @@ footer p{
         font-size: 6rem;
     }
 }
+
+@media (max-width:445px){
+    .temp_form{
+        width: 90%;
+    }
+    .tempInfo{
+        width: 35rem;
+    }
+}
+
+@media (max-width:400px){
+    .temp_form{
+        width: 100%;
+    }
+    .tempInfo{
+        width: 30rem;
+    }
+    .main_layer .middle_layer p{
+        font-size: 5rem;
+    }
+}
