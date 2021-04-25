@@ -265,6 +265,8 @@ footer p{
     .main_layer .middle_layer .fa{
         font-size: 6rem;
     }
+    .abt figure img{
+        display:none;
 }
 
 @media (max-width:445px){
